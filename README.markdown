@@ -11,5 +11,5 @@ Gives you on screen output of JavaScript's console.log() on Android, iPhone, iPa
 
 在head中引用
 
-    <script src="https://raw.github.com/gorbiz/mobile-console.log/master/console.js" type="text/javascript"></script>
+    <script src="https://raw.githubusercontent.com/shengtao/mobile-console.log/master/console.js" type="text/javascript"></script>
 
